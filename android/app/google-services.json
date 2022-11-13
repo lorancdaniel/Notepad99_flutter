@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101268908354",
+    "project_id": "notepad99-dda26",
+    "storage_bucket": "notepad99-dda26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101268908354:android:f13fdc9a781c3dd02600db",
+        "android_client_info": {
+          "package_name": "lorancdan.notepad99"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101268908354-81q88g1bvv9aola802mfhmi5o0gqdo38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAvr6SOsD-ZBzTMEsSb2HpGBNH1bMd7tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101268908354-81q88g1bvv9aola802mfhmi5o0gqdo38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
