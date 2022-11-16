@@ -63,7 +63,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '101268908354',
     projectId: 'notepad99-dda26',
     storageBucket: 'notepad99-dda26.appspot.com',
-    iosClientId: '101268908354-njo73aaus1037l53nrgu591j483i82lk.apps.googleusercontent.com',
+    iosClientId:
+        '101268908354-njo73aaus1037l53nrgu591j483i82lk.apps.googleusercontent.com',
     iosBundleId: 'lorancdan.notepad99',
   );
 }
